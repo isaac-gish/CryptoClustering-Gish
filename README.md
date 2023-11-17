@@ -1,2 +1,2 @@
-# Module-19-Gish
+# CryptoClustering-Gish
 Module 19 challenge assignment
